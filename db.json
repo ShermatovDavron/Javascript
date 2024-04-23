@@ -1,0 +1,167 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "title": "Plan \"Usual\"",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10,
+      "id": "7531"
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "title": "Plan \"Premium\"",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 15,
+      "id": "8db5"
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "title": "Plan \"VIP\"",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20,
+      "id": "9bee"
+    }
+  ],
+  "request": [
+    {
+      "id": "3b1e",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "f470",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "14d2",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "ebe4",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "4c3d",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "9841",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "e2b4",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-2h1-14"
+    },
+    {
+      "id": "a90d",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-261-14"
+    },
+    {
+      "id": "1865",
+      "name": "Priora",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "fa99",
+      "name": "Shermatov Davron ",
+      "phone": "+998999992114"
+    },
+    {
+      "id": "9610",
+      "name": "Shermatov Davron ",
+      "phone": "+998999992114"
+    },
+    {
+      "id": "02fb",
+      "name": "Shermatov Davron ",
+      "phone": "+998999992114"
+    },
+    {
+      "id": "1cb0",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "8696",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "3378",
+      "name": "Shermatov Davron ",
+      "phone": "+998 (99) 999-21-14"
+    },
+    {
+      "id": "bf43",
+      "name": "Davron Shermatov",
+      "phone": "+998999992114"
+    },
+    {
+      "id": "2a74",
+      "name": "Davron Shermatov",
+      "phone": "+998999992114"
+    },
+    {
+      "id": "eb86",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "e75d",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "6ad0",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "49f4",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "80ff",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "6d61",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "e4e6",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "5801",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "796a",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "6bc1",
+      "name": "",
+      "phone": ""
+    },
+    {
+      "id": "937c",
+      "name": "",
+      "phone": ""
+    }
+  ]
+}

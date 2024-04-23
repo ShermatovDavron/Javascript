@@ -1,0 +1,25 @@
+{
+  "name": "loyihajs",
+  "version": "1.0.0",
+  "description": "Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "HTML",
+    "SASS"
+  ],
+  "author": "Davron Shermatov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
